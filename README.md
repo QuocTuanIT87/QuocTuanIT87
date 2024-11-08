@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Quốc Tuấn</h1>
 <h3 align="center">A App developer from VietNam</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pxOWhmMDQwYWY1azJhcXd2bng0OG5odWpodXMyeWdyMzg0Z3FpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pxOWhmMDQwYWY1azJhcXd2bng0OG5odWpodXMyeWdyMzg0Z3FpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif">
 
 - 🌱 I’m currently learning **jetpack compose, swift, flutter**
 
